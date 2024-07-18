@@ -35,4 +35,6 @@ Usage Instructions:
 
 Link to form: [Link](https://script.google.com/macros/s/AKfycbwx3oRPnyheYrY-U2eqnklXEgdSS7LTcNOkVFhU-2YzEVMe4Baf8okJ7Bc7hhnOIywlvA/exec)
 
-Link to log spreadsheet: [Link](https://docs.google.com/spreadsheets/d/16mUaovFGkyrTeXZTRWIpBiLg3tscEnXv188VFxmQjaE/edit?usp=sharing)
+Link to "general log" spreadsheet: [Link](https://docs.google.com/spreadsheets/d/16mUaovFGkyrTeXZTRWIpBiLg3tscEnXv188VFxmQjaE/edit?usp=sharing)
+
+Link to "IPHO log" spreadsheet: [Link](https://docs.google.com/spreadsheets/d/1pOLp5v34kwNK6riHnb5Nc1DFOZVHzKtk_cN_jCBX3hU/edit?usp=sharing)
