@@ -6,7 +6,7 @@ This web app was developed using Google Apps Script, an application development 
 
 Apps Script is a coding language based on JavaScript and runs in the cloud on Google's servers.
 
-Form language: Spanish
+Form language: **Spanish**
 
 Purpose: digitalization of hand written reports
 
@@ -33,7 +33,7 @@ Usage Instructions:
 
 ## Live Demo
 
-Link to form: [Link](https://script.google.com/macros/s/AKfycbwx3oRPnyheYrY-U2eqnklXEgdSS7LTcNOkVFhU-2YzEVMe4Baf8okJ7Bc7hhnOIywlvA/exec)
+Link to form: [Link](https://script.google.com/macros/s/AKfycbxzKMUvsXmyA9cN3PX7IKS2hsqNTZZWKj7BgaYTtDCQMRSKNs0RJGTsxnubgar8uKnSIQ/exec)
 
 Link to "general log" spreadsheet: [Link](https://docs.google.com/spreadsheets/d/16mUaovFGkyrTeXZTRWIpBiLg3tscEnXv188VFxmQjaE/edit?usp=sharing)
 
